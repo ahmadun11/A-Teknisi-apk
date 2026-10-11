@@ -3,7 +3,7 @@ name: Build Android APK
 on:
   push:
     branches:
-      - main # Atau master, sesuaikan dengan branch utama repository Anda
+      - main # A-Teknisi-apk
 
 jobs:
   build:
